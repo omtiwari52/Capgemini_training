@@ -45,7 +45,7 @@ public class addRemove {
         switch (choice) {
             case 1:
                 addInteger(n);
-                System.out.println("You added "+ n + " in the list");
+                System.out.println("You added "+ n + " in the list, hehe");
                 break;
             case 2:
                 if(lis.size() >= n){
