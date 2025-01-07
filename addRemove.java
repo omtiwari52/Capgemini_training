@@ -53,7 +53,7 @@ public class addRemove {
                     System.out.println("You removed "+ n + " index from the list");
                 }
                 else{
-                    System.out.println("Index out of bounds");
+                    System.out.println("Index out of bound....");
                 }
         }
 
